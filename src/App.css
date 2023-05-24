@@ -1,0 +1,28 @@
+.form-container {
+  margin: 50px 0 0 50px;
+  
+}
+
+.input-box {
+  margin-bottom: 15px;
+}
+
+p {
+  margin: 0 0 10px 0;
+}
+
+input { 
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 15px;
+  padding: 5px 5px 5px 10px;
+}
+
+button {
+  margin-top: 15px;
+  align-self: center;
+  font-size: 15px;
+  padding: 7px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
